@@ -15,4 +15,4 @@
 . . . e e e . . . e e e . . . . 
 . . . . 5 . . . . . 5 . . . . . 
 . . . e e . . . . . e e . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image2"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="zCg1.R}kRV(]rKr!L{G;"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image2"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="zCg1.R}kRV(]rKr!L{G;"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="aRTUV)RNV{83VpKZ2)gQ"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="!;^FXNOa]Bba^D+Oi*%X"><field name="VAR" id="[9^j@JI[(7n)Lqj68_!m">mySprite</field></block></value></block></next></block></statement></block></xml>
